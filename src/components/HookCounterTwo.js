@@ -1,4 +1,4 @@
-import React from 'react'
+import React,{useState} from 'react'
 
 function HookCounterTwo() {
     const initialCount = 0 
@@ -13,4 +13,4 @@ function HookCounterTwo() {
  )
 }
 
-export default HookCounterTwo
+export default HookCounterTwo;

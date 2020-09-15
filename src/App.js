@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import HookCounterTwo from './HookCounterTwo'
+import HookCounterTwo from './components/HookCounterTwo';
 
 
 function App() {
